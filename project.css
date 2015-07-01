@@ -1,0 +1,36 @@
+textarea {
+font-size: 4em;
+margin-top: 75px;
+margin-left: 55px;
+padding: inherit;
+box-shadow: 15px;
+
+
+
+}
+
+body {
+    background-image: url("backs/musicBack.jpg");
+}
+
+button {
+position: fixed;
+margin-top: 95px;
+padding-left: 5px;
+ font-size: 2em;
+
+}
+
+#userInput {
+
+
+}
+#instructions {
+    font-family: courier;
+    position: absolute;
+    font-size: 1.5em;
+    margin-left: 55px;
+    color: white;
+
+
+}
